@@ -21,7 +21,7 @@ $user = $oauth->userinfo->get();
 
 $picture_link = $user->picture;
 
-echo '<br><img width="200" height="200" src="'.$picture_link.'">';
+echo '<br><img src="'.$picture_link.'">';
 
 echo '<br>';
 
