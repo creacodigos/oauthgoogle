@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=macos,composer,visualstudiocode
 
 ### files
-# config.php
+config.php
 
 ### Composer ###
 composer.phar
